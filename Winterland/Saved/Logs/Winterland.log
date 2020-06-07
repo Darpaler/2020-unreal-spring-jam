@@ -756,3 +756,50 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.06.07-18.05.47:863][  0]LogSlate: Took 0.008858 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2020.06.07-18.05.47:877][  1]LogAssetRegistry: Asset discovery search completed in 8.1789 seconds
 [2020.06.07-18.05.47:884][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2020.06.07-18.39.09:051][143]LogSlate: Window 'Project Settings' being destroyed
+[2020.06.07-18.39.09:054][143]LogSlate: Window 'Project Settings' being destroyed
+[2020.06.07-18.40.40:649][606]LogObjectTools: Deleting 1 worlds: /Game/NewWorld.NewWorld
+[2020.06.07-18.40.40:649][606]LogObjectTools: Currently 2 active worlds: /Game/HandheldARBP/Maps/HandheldARBlankMap.HandheldARBlankMap, /Engine/Transient.World_0
+[2020.06.07-18.40.40:689][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.06.07-18.40.43:054][606]LogSlate: Window 'Delete Assets' being destroyed
+[2020.06.07-18.40.43:073][606]LogSlate: Took 0.008490 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.07-18.40.43:087][606]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-18.40.43:087][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-18.40.43:170][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.06.07-18.44.04:289][320]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ARPrototype.ARPrototype
+[2020.06.07-18.44.04:325][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.06.07-18.44.12:553][320]LogSlate: Window 'Save Content' being destroyed
+[2020.06.07-18.44.12:601][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.06.07-18.44.12:620][320]LogSavePackage: Moving '../../../../../../Users/Darin/Repositories/Personal/2020-unreal-spring-jam/Winterland/Saved/ARPrototype63F8B4DD49FD68298EDAE4B6C100E925.tmp' to '../../../../../../Users/Darin/Repositories/Personal/2020-unreal-spring-jam/Winterland/Content/ARPrototype.umap'
+[2020.06.07-18.44.12:624][320]LogFileHelpers: Saving map 'ARPrototype' took 0.055
+[2020.06.07-18.44.12:624][320]Cmd: MAP LOAD FILE="../../../../../../Users/Darin/Repositories/Personal/2020-unreal-spring-jam/Winterland/Content/ARPrototype.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.07-18.44.12:625][320]LightingResults: New page: Lighting Build
+[2020.06.07-18.44.12:625][320]LoadErrors: New page: Loading map: ARPrototype.umap
+[2020.06.07-18.44.12:625][320]LogWorld: UWorld::CleanupWorld for HandheldARBlankMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.07-18.44.12:625][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.07-18.44.12:625][320]MapCheck: New page: Map Check
+[2020.06.07-18.44.12:625][320]LightingResults: New page: Lighting Build
+[2020.06.07-18.44.12:657][320]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D9512820C0), frame # 109320
+[2020.06.07-18.44.12:657][320]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D96039BE00), frame # 109320
+[2020.06.07-18.44.12:658][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.06.07-18.44.12:662][320]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.07-18.44.12:662][320]LogAIModule: Creating AISystem for world ARPrototype
+[2020.06.07-18.44.12:662][320]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D9112C1000), frame # 109320
+[2020.06.07-18.44.12:662][320]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D922245D00), frame # 109320
+[2020.06.07-18.44.12:706][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.06.07-18.44.12:760][320]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.07-18.44.12:760][320]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.186ms to complete.
+[2020.06.07-18.44.12:760][320]LogFileHelpers: Loading map 'ARPrototype' took 0.135
+[2020.06.07-18.44.12:805][320]AssetCheck: New page: Asset Save: ARPrototype
+[2020.06.07-18.44.12:805][320]LogContentValidation: Display: Validating World /Game/ARPrototype.ARPrototype
+[2020.06.07-18.54.12:547][411]LogSlate: Window 'Project Settings' being destroyed
+[2020.06.07-18.55.07:530][586]LogSlate: Window 'Plugins' being destroyed
+[2020.06.07-18.55.07:537][586]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2020.06.07-18.55.29:307][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.06.07-18.55.29:330][876]LogSavePackage: Moving '../../../../../../Users/Darin/Repositories/Personal/2020-unreal-spring-jam/Winterland/Saved/ARPrototype67B6168941F6435DE2899DA087EC3E65.tmp' to '../../../../../../Users/Darin/Repositories/Personal/2020-unreal-spring-jam/Winterland/Content/Maps/ARPrototype.umap'
+[2020.06.07-18.55.29:398][876]LogFileHelpers: Saving map 'ARPrototype' took 0.133
+[2020.06.07-18.55.29:533][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2020.06.07-18.55.29:581][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.06.07-18.55.29:625][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.06.07-18.55.29:658][876]AssetCheck: New page: Asset Save: ARPrototype
+[2020.06.07-18.55.29:659][876]LogContentValidation: Display: Validating World /Game/Maps/ARPrototype.ARPrototype
